@@ -1,4 +1,5 @@
-Exercice: lasagna/lasagna.go
+- Exercice: [lasagna](lasagna/lasagna.go)
+- TODO: link to next course
 
 # Basics
 Go is a statically typed, compiled programming language. 
@@ -55,3 +56,6 @@ func hi (name string) string {
     return "hi " + name
 }
 ```
+
+- Exercice: [lasagna](lasagna/lasagna.go)
+- TODO: link to next course
